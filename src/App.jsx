@@ -6,7 +6,7 @@ const App = () => {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<TaskDashboard />} />
+        <Route path="/Tasks/" element={<TaskDashboard />} />
       </Routes>
     </Router>
   );
