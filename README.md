@@ -87,6 +87,4 @@ The dashboard is fully responsive:
 
 ## Contact
 
-Your Name - ompawaskar7@gmail.com
-
-Project Link: [https://github.com/yourusername/task-management-dashboard](https://github.com/yourusername/task-management-dashboard)
+Email - ompawaskar7@gmail.com
